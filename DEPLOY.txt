@@ -1,0 +1,8 @@
+RIYUN website deploy
+
+1. Extract this ZIP.
+2. Open PowerShell in this folder.
+3. Run: npx.cmd wrangler deploy
+
+Cloudflare Worker: lively-frost-c32d
+Domain: https://riyun-golf.com

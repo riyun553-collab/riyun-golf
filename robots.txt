@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://riyun-golf.com/sitemap.xml
